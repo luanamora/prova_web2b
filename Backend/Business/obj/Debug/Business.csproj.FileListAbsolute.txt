@@ -1,0 +1,129 @@
+C:\Users\user\source\repos\ApiProduct\Business\bin\Debug\Business.dll
+C:\Users\user\source\repos\ApiProduct\Business\bin\Debug\Business.pdb
+C:\Users\user\source\repos\ApiProduct\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ApiProduct\Business\obj\Debug\Business.dll
+C:\Users\user\source\repos\ApiProduct\Business\obj\Debug\Business.pdb
+C:\Users\user\source\repos\ApiProduct\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Business.dll.config
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Business.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Business.pdb
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Npgsql.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Remotion.Linq.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\System.Buffers.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\System.Interactive.Async.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\System.Memory.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\System.ValueTuple.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Npgsql.pdb
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Npgsql.xml
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.pdb
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\Remotion.Linq.xml
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\System.Buffers.xml
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\System.Interactive.Async.xml
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\System.Memory.xml
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\bin\Debug\System.ValueTuple.xml
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\obj\Debug\Business.dll
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\obj\Debug\Business.pdb
+C:\Users\Pedro Henrique\Documents\Visual Studio 2019\Projects\ApiProduct2\Backend\Business\obj\Debug\Business.csprojAssemblyReference.cache
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Business.dll.config
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Business.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Business.pdb
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.Extensions.Options.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Npgsql.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Remotion.Linq.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\System.Buffers.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\System.Collections.Immutable.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\System.ComponentModel.Annotations.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\System.Interactive.Async.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\System.Memory.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\System.Numerics.Vectors.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\System.ValueTuple.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.Extensions.Options.xml
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Npgsql.pdb
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Npgsql.xml
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.pdb
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\Remotion.Linq.xml
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\System.Buffers.xml
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\System.Collections.Immutable.xml
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\System.Interactive.Async.xml
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\System.Memory.xml
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\System.Numerics.Vectors.xml
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\bin\Debug\System.ValueTuple.xml
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\obj\Debug\Business.csprojAssemblyReference.cache
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\obj\Debug\Business.csproj.CopyComplete
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\obj\Debug\Business.dll
+D:\000\FAG\MARCELO\CRUDWEB\crud-web-main\Backend\Business\obj\Debug\Business.pdb
